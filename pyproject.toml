@@ -1,0 +1,10 @@
+[project]
+name = "rtsys-proj"
+version = "0.1.0"
+description = "embedded and real-time systems project"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "colorhash>=2.0.0",
+    "matplotlib>=3.10.3",
+]
